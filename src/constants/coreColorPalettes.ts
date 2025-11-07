@@ -18,6 +18,6 @@ export const CORE_COLOR_PALETTES: ColorPalettes = {
   github
 } as const
 
-export const DEFAULT_COLOR_PALETTE: CompletedPalette = dark
-export const DEFAULT_DARK_COLOR_PALETTE: CompletedPalette = dark
+export const DEFAULT_COLOR_PALETTE: CompletedPalette = light
+export const DEFAULT_DARK_COLOR_PALETTE: CompletedPalette = light
 export const DEFAULT_LIGHT_COLOR_PALETTE: CompletedPalette = light
